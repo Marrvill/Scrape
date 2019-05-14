@@ -1,0 +1,22 @@
+{
+  "name": "newsscraper",
+  "version": "1.0.0",
+  "description": "scraping news",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrvill/Scrape.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "Marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrvill/Scrape/issues"
+  },
+  "homepage": "https://github.com/Marrvill/Scrape#readme"
+}
